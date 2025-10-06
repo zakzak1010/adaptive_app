@@ -1,73 +1,92 @@
+import 'package:flex_color_scheme/flex_color_scheme.dart';
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:googleapis_auth/googleapis_auth.dart';
 import 'package:provider/provider.dart';
 
+import 'src/adaptive_login.dart';
+import 'src/adaptive_playlists.dart';
 import 'src/app_state.dart';
 import 'src/playlist_details.dart';
 
-void main() {
-  runApp(
-    MultiProvider(
-      providers: [
-        ChangeNotifierProvider(create: (_) => AuthedUserPlaylists()),
+final scopes = [
+  'https://www.googleapis.com/auth/youtube.readonly',
+];
+
+final clientId = ClientId(
+  '378628712451-vr122ip1v124dt0cidgi5skc39gcg49j.apps.googleusercontent.com',
+  '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',
+);
+
+final _router = GoRouter(
+  routes: <RouteBase>[
+    GoRoute(
+      path: '/',
+      builder: (context, state) {
+        return const AdaptivePlaylists();
+      },
+      redirect: (context, state) {
+        if (!context.read<AuthedUserPlaylists>().isLoggedIn) {
+          return '/login';
+        } else {
+          return null;
+        }
+      },
+      routes: <RouteBase>[
+        GoRoute(
+          path: 'login',
+          builder: (context, state) {
+            return AdaptiveLogin(
+              clientId: clientId,
+              scopes: scopes,
+              loginButtonChild: const Text('Login to YouTube'),
+            );
+          },
+        ),
+        GoRoute(
+          path: 'playlist/:id',
+          builder: (context, state) {
+            final title = state.uri.queryParameters['title']!;
+            final id = state.pathParameters['id']!;
+            return Scaffold(
+              appBar: AppBar(title: Text(title)),
+              body: PlaylistDetails(
+                playlistId: id,
+                playlistName: title,
+              ),
+            );
+          },
+        ),
       ],
-      child: const MyApp(),
     ),
-  );
+  ],
+);
+
+void main() {
+  runApp(ChangeNotifierProvider<AuthedUserPlaylists>(
+    create: (context) => AuthedUserPlaylists(),
+    child: const PlaylistsApp(),
+  ));
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class PlaylistsApp extends StatelessWidget {
+  const PlaylistsApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Adaptive YouTube App',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
+    return MaterialApp.router(
+      title: 'Your Playlists',
+      theme: FlexColorScheme.light(
+        scheme: FlexScheme.red,
         useMaterial3: true,
-      ),
-      home: const HomeScreen(),
+      ).toTheme,
+      darkTheme: FlexColorScheme.dark(
+        scheme: FlexScheme.red,
+        useMaterial3: true,
+      ).toTheme,
+      themeMode: ThemeMode.dark,
       debugShowCheckedModeBanner: false,
-    );
-  }
-}
-
-class HomeScreen extends StatelessWidget {
-  const HomeScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    final playlists = [
-      {'id': 'PLT8cXkO9LRZw267SXNMuDWR8TMcj7VKsw', 'name': 'Flutter Tutorials'},
-      {'id': 'PLT8cXkO9LRZw2GycQf7q6w1X4YQkCJX1_', 'name': 'Music Playlist'},
-      {'id': 'PLT8cXkO9LRZz8hc5a0nrbJ6Yzc5qZKp9f', 'name': 'Tech Talks'},
-    ];
-
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Mis Playlists de YouTube'),
-      ),
-      body: ListView.builder(
-        itemCount: playlists.length,
-        itemBuilder: (context, index) {
-          final playlist = playlists[index];
-          return ListTile(
-            leading: const Icon(Icons.playlist_play, color: Colors.red),
-            title: Text(playlist['name'] ?? 'Sin nombre'),
-            subtitle: Text('ID: ${playlist['id']}'),
-            onTap: () {
-              Navigator.of(context).push(
-                MaterialPageRoute(
-                  builder: (_) => PlaylistDetails(
-                    playlistId: playlist['id']!,
-                    playlistName: playlist['name']!,
-                  ),
-                ),
-              );
-            },
-          );
-        },
-      ),
+      routerConfig: _router,
     );
   }
 }
