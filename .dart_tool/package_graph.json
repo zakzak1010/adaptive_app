@@ -165,15 +165,6 @@
       ]
     },
     {
-      "name": "flex_color_scheme",
-      "version": "7.3.1",
-      "dependencies": [
-        "flex_seed_scheme",
-        "flutter",
-        "meta"
-      ]
-    },
-    {
       "name": "cupertino_icons",
       "version": "1.0.8",
       "dependencies": []
@@ -197,6 +188,15 @@
       "dependencies": [
         "flutter",
         "flutter_inappwebview"
+      ]
+    },
+    {
+      "name": "flex_color_scheme",
+      "version": "8.3.0",
+      "dependencies": [
+        "flex_seed_scheme",
+        "flutter",
+        "meta"
       ]
     },
     {
@@ -466,15 +466,6 @@
       ]
     },
     {
-      "name": "flex_seed_scheme",
-      "version": "1.5.0",
-      "dependencies": [
-        "collection",
-        "flutter",
-        "meta"
-      ]
-    },
-    {
       "name": "youtube_player_iframe_web",
       "version": "3.1.2",
       "dependencies": [
@@ -518,6 +509,15 @@
       "version": "5.8.0",
       "dependencies": [
         "flutter"
+      ]
+    },
+    {
+      "name": "flex_seed_scheme",
+      "version": "3.5.1",
+      "dependencies": [
+        "collection",
+        "flutter",
+        "meta"
       ]
     },
     {

@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		BknZPHDbkJGVqtKK1fhB4kcMENA=
+		NgsH9tK5Ujnm4fN2sYVI/obx3CI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		lo1lTMuCP9MLHsBOTjBIRjitrxM=
+		GpllDXvR6R3Io3Z9Ruwknly5fS4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/.env</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		ISUFZcJCilZOvdFk9bTw4LW5kv0=
+		FP3SOCAGsB5MywDoGvZblhKkUT8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		YBeybA/7LxfU/hV+R1m82B9JThQ=
+		Nxr4dQo8obVfI7HZbJG0Gi20ELM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -810,10 +810,6 @@
 		<data>
 		POgYqGFtzxvGt6DU8Ou3Uq6wucs=
 		</data>
-		<key>client_378628712451-k9sv1u9564dmg402tr20jtinglaupo1v.apps.googleusercontent.com.plist</key>
-		<data>
-		x19U9ifz/IIpUgw1zhX4OQiM2mg=
-		</data>
 		<key>google_sign_in_ios_privacy.bundle/Info.plist</key>
 		<data>
 		SuKgvxMmy3o354/fZKubDD3fmnI=
@@ -899,7 +895,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mecl4KMiThjgDMhaPb3JBTnrs0X4Cc07WTOEbvnx3es=
+			inyYfO2nO6DigmUHgrvlzZzSN1wGPgGcLSVyAoI/EXY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -913,7 +909,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EtCfgV3GftYTDOI+ND647mf6+3/2N+H1Ez0wh+7V9yo=
+			Vri7V/ichdmCoCiIJrq2e/ca6/gjKcPVqp9NNlbVbss=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/.env</key>
@@ -948,7 +944,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gQagsOtAayFwycS2Q8ev+Qvgr3QeggbDG26Bn7wpTq0=
+			ZzQlVUURi2H0O3d4hGgl9F0NxChL56VlOeE2lfODhAw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
@@ -976,7 +972,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MJjZpm7SX+RrklMTjFPPcCWt5V0ScPYPHGy/vRa6kqg=
+			bW9/XaA6a35rpjy2GMXC2CaK+qckf2kbhhJVyNpozSQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1963,13 +1959,6 @@
 			<key>hash2</key>
 			<data>
 			VE9X/QMcjZFsdKyGt3J1pGxtHdTF95JV2gPoy79aNQU=
-			</data>
-		</dict>
-		<key>client_378628712451-k9sv1u9564dmg402tr20jtinglaupo1v.apps.googleusercontent.com.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lM/G0WDn+BLFWh8bdh3NiENt5E7+B6CGs+BO2arpRUU=
 			</data>
 		</dict>
 		<key>google_sign_in_ios_privacy.bundle/Info.plist</key>

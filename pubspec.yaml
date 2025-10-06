@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flex_color_scheme: ^8.3.0
 
   # Plugins de video
   youtube_player_flutter: ^8.1.2
@@ -17,7 +18,6 @@ dependencies:
 
   # UI y utilidades
   cupertino_icons: ^1.0.8
-  flex_color_scheme: ^7.3.1
   split_view: ^3.2.1
 
   # HTTP, Google y autenticación

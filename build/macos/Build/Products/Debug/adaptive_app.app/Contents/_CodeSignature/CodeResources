@@ -31,10 +31,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kRAxhHCaYb5j3KwwfjQOVSirWs4=
+			NHMjMspgchbzLO2CQpSAUU8iy6I=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"91103184709a61be63dcac307e340e5528ab5ace"</string>
+			<string>cdhash H"34732332ca607216f32ced82429480514f22cba2"</string>
 		</dict>
 		<key>Frameworks/AppAuth.framework</key>
 		<dict>

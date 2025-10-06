@@ -1,1 +1,0 @@
- /Users/carlo/Desktop/movil/adaptive_app/.dart_tool/flutter_build/d5144cca94a4f5e29032911fd04f6a6f/native_assets.json: 
