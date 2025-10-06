@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/AppCheckCore.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/GACAppCheck.m \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheck.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/PromisesObjC.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckErrors.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckProvider.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckSettings.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckToken.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckTokenDelegate.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckTokenResult.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/Errors/GACAppCheckErrorUtil.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/GACAppCheckLogger+Internal.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckLogger.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/Storage/GACAppCheckStorage.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTokenRefreshResult.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTokenRefresher.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppCheckCore/AppCheckCore/Sources/Core/TokenRefresh/GACAppCheckTimer.h

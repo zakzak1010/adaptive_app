@@ -1,0 +1,44 @@
+{
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/GetTrustResultResponse.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponse.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponse.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponse.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponse.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponse.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/GetTrustResultResponseProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponseProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponseProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponseProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponseProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/GetTrustResultResponseProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/HTTPCookieProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/HTTPCookieStoreProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieStoreProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieStoreProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieStoreProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieStoreProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPCookieStoreProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/HTTPURLResponseProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPURLResponseProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPURLResponseProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPURLResponseProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPURLResponseProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/HTTPURLResponseProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/NavigationActionProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/NavigationActionProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/NavigationActionProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/NavigationActionProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/NavigationActionProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/NavigationActionProxyAPIDelegate.swiftdeps"
+  }
+}

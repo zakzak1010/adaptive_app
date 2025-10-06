@@ -1,0 +1,45 @@
+moduledependenciestarget: \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/AppAuth.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/Target\ Support\ Files/AppAuth/AppAuth-umbrella.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/Cocoa.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/CoreServices.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk/System/Library/Frameworks/AppKit.framework/Modules/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthState.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthStateChangeDelegate.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthStateErrorDelegate.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationRequest.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentRequest.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDResponseTypes.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDScopes.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationResponse.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationService.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDError.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDErrorUtilities.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgent.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentSession.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDGrantTypes.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDIDToken.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDRegistrationRequest.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDRegistrationResponse.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDScopeUtilities.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDServiceConfiguration.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDServiceDiscovery.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDTokenRequest.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDTokenResponse.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDTokenUtilities.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDURLSessionProvider.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDEndSessionRequest.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDEndSessionResponse.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDClientMetadataParameters.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDDefines.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDFieldMapping.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuthCore/OIDURLQueryComponent.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuth.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDAuthState+Mac.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDAuthorizationService+Mac.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDExternalUserAgentMac.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDRedirectHTTPHandler.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/AppAuth/Sources/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.h

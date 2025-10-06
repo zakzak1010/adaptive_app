@@ -1,0 +1,1 @@
+@rpath/adaptive_app.debug.dylib

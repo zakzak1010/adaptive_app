@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GTMAppAuth.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleSignIn.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignIn.m \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AppKit.framework/Modules/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignIn_Private.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDConfiguration.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDGoogleUser.h \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GTMSessionFetcher.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDProfileData.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInResult.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDEMMSupport.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInInternalOptions.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInPreferences.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDCallbackQueue.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDScopes.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInCallbackSchemes.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDGoogleUser_Private.h \
+  /Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/AppAuth.build/module.modulemap \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDProfileData_Private.h \
+  /Users/carlo/Desktop/movil/adaptive_app/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInResult_Private.h

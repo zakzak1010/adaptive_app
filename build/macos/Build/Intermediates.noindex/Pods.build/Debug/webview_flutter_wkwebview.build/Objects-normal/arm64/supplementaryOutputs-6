@@ -1,0 +1,37 @@
+{
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/UIViewProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UIViewProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UIViewProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UIViewProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UIViewProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/UIViewProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/URLAuthenticationChallengeProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLAuthenticationChallengeProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLAuthenticationChallengeProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLAuthenticationChallengeProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLAuthenticationChallengeProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLAuthenticationChallengeProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/URLCredentialProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLCredentialProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLCredentialProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLCredentialProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLCredentialProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLCredentialProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/URLProtectionSpaceProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProtectionSpaceProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProtectionSpaceProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProtectionSpaceProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProtectionSpaceProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProtectionSpaceProxyAPIDelegate.swiftdeps"
+  },
+  "/Users/carlo/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.23.1/darwin/webview_flutter_wkwebview/Sources/webview_flutter_wkwebview/URLProxyAPIDelegate.swift" : {
+    "const-values" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProxyAPIDelegate.swiftconstvalues",
+    "dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProxyAPIDelegate.d",
+    "diagnostics" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProxyAPIDelegate.dia",
+    "object" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProxyAPIDelegate.o",
+    "swift-dependencies" : "/Users/carlo/Desktop/movil/adaptive_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/webview_flutter_wkwebview.build/Objects-normal/arm64/URLProxyAPIDelegate.swiftdeps"
+  }
+}
